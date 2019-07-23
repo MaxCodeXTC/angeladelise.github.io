@@ -1,6 +1,6 @@
 .navbar{
-  background-color: green !important; /*_fill*/
-  border-color: green;
+  background-color: purple !important; /*_fill*/
+  border-color: purple;
 }
 @font-face {
   font-family: 'Glyphs';
@@ -123,7 +123,7 @@ footer a:hover {
 }
 .carousel-caption > h1 {
   font-family: 'Oswald', sans-serif;
-  font-size: 60px;
+  font-size: 20px;
   text-transform: uppercase;
 }
 .carousel-inner > .item > img {
